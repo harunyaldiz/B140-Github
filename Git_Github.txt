@@ -7,3 +7,4 @@
 6-Working space ve stage deki kodlarımın durumunu  görmek için git status komutunu kullanırız
 7- commit store  (yani versiyon oluşturduğumuz yer ) daki versiyonlarımızı görmek için git log -- online komutunu kullanırız
 8-oluşturmuş olduğumuz versiyonu github agönderebilmekk için git push<githup pepository adresi > ya da devamlı kullanacağımız repoysa git remote add origin <repo adresi>/git push -u master komutu  ile github a gönderebiliriz  
+10-Git hub'a gönderdiğimiz kodlarıda başka bir çalışma ortamına çekebilmek için git pull yazarak çekebiliriz
